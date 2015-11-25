@@ -1,0 +1,34 @@
+{
+  "name": "ecmascript-jspm-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node serve",
+    "setup": "npm install && jspm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChrisMurphy/ecmascript-jspm-seed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisMurphy/ecmascript-jspm-seed/issues"
+  },
+  "homepage": "https://github.com/ChrisMurphy/ecmascript-jspm-seed",
+  "devDependencies": {
+    "jspm": "^0.16.15",
+    "live-server": "^0.8.2"
+  },
+  "jspm": {
+    "directories": {
+      "baseURL": "src"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  }
+}
