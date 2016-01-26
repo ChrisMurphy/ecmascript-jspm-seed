@@ -1,1 +1,1 @@
-# ecmascript-jspm-seed
+# ES6 Web Components - JSPM
