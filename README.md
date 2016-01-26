@@ -1,2 +1,2 @@
-# ES6 Web Components - JSPM
-Small test to illustrate Angular 2 basic concepts without using the framework itself
+# ES6 Web Components
+Small test to illustrate basic concepts
